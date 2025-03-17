@@ -17,3 +17,9 @@
 * Programming: Python 🐍 (NumPy, SciPy, PyTorch 🔥, Pandas 🐼, RDKit 🧪, ManOpt, ...); Rust 🦀
 * Versioning: Git
 * Writing: LaTeX ✒️, Markdown 📄
+
+### Other Things
+
+* You can view the notes I take learning mathematics, ML, etc on my [Obsidian site](https://publish.obsidian.md/luket)
+* I was the lead developer on the video game mod [Cold War: Iron Curtain](https://steamcommunity.com/sharedfiles/filedetails/?id=1458561226). This is how I learned to program, growing it from a few thousand to over 500 000 total downloads.
+* I am currently employed as a geospatial data analyst at Kumon
