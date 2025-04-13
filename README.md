@@ -9,7 +9,7 @@
 * 🎓 Pursue a PhD in Machine Learning at the [University of Sydney](https://www.sydney.edu.au/). My supervisors are:
     * [Professor Junbin Gao](https://scholar.google.com.au/citations?user=3-KJN8IAAAAJ&hl=en)
     * [Dr. Slade Matthews](https://scholar.google.com.au/citations?user=P1JKDSgAAAAJ&hl=en&oi=ao)
-* 🌱 Studying deep learning for science ⚛️, neural operators and manifold optimisation 📉
+* 🌱 Study deep learning for science ⚛️, neural operators and manifold optimisation 📉
 - 💬 Ask me about cheminformatics and graph transformers
 
 ### Tech Stack
