@@ -11,9 +11,9 @@
     * [Dr. Slade Matthews](https://scholar.google.com.au/citations?user=P1JKDSgAAAAJ&hl=en&oi=ao)
 
 My Papers:
-* 3x upcoming 🤫
+* 2x further under review
 * ICLR2026: [ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482)
-* Arxiv (Submitted): [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](https://arxiv.org/abs/2601.01021)
+* Arxiv (Currently under review): [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](https://arxiv.org/abs/2601.01021)
 * Chemical Research in Toxiology: [AmesFormer: State-of-the-Art Mutagenicity Prediction with Graph Transformers](https://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.4c00466) 
 
 ### Other Things
