@@ -8,7 +8,8 @@
 
 * 🎓 Pursue a PhD in Machine Learning at the [University of Sydney](https://www.sydney.edu.au/). My supervisors are:
     * [Professor Junbin Gao](https://scholar.google.com.au/citations?user=3-KJN8IAAAAJ&hl=en)
-    * [Dr. Slade Matthews](https://scholar.google.com.au/citations?user=P1JKDSgAAAAJ&hl=en&oi=ao)
+    * [Professor Slade Matthews](https://scholar.google.com.au/citations?user=P1JKDSgAAAAJ&hl=en&oi=ao)
+    * [Dr. Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en)
 
 My Papers:
 * 2x further under review
