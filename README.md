@@ -12,7 +12,7 @@
     * [Dr. Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en)
 
 My Papers:
-* 2x further under review
+* 2x further under review. One on branched rough paths, one on GNNs
 * ICLR2026: [ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482)
 * Arxiv (Currently under review): [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](https://arxiv.org/abs/2601.01021)
 * Chemical Research in Toxiology: [AmesFormer: State-of-the-Art Mutagenicity Prediction with Graph Transformers](https://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.4c00466) 
