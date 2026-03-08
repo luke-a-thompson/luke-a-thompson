@@ -19,5 +19,6 @@ My Papers:
 
 ### Other Things
 
+* My team places second in the London Institute of Mathematics Stochastic Partial Differential Equations forecasting contest.
 * You can view the notes I take learning mathematics, ML, etc on my [Obsidian site](https://publish.obsidian.md/luket)
 * I was the lead developer on the video game mod [Cold War: Iron Curtain](https://steamcommunity.com/sharedfiles/filedetails/?id=1458561226). This is how I learned to program, growing it from a few thousand to over 500 000 total downloads.
