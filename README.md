@@ -11,14 +11,10 @@
     * [Professor Slade Matthews](https://scholar.google.com.au/citations?user=P1JKDSgAAAAJ&hl=en&oi=ao)
     * [Dr. Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en)
 
-My Papers:
-* 2x further under review. One on branched rough paths, one on GNNs
-* ICLR2026: [ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482)
-* Arxiv (Currently under review): [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](https://arxiv.org/abs/2601.01021)
-* Chemical Research in Toxiology: [AmesFormer: State-of-the-Art Mutagenicity Prediction with Graph Transformers](https://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.4c00466) 
+You can view my papers on [my Google Scholar](https://scholar.google.com/citations?user=vKm12VMAAAAJ&hl=en)
 
 ### Other Things
 
-* My team places second in the London Institute of Mathematics Stochastic Partial Differential Equations forecasting contest.
-* You can view the notes I take learning mathematics, ML, etc on my [Obsidian site](https://publish.obsidian.md/luket)
+* My team placed second in the London Institute of Mathematics Stochastic Partial Differential Equations forecasting contest.
+* You can view the notes I take learning mathematics, ML, etc., on my [Obsidian site](https://publish.obsidian.md/luket)
 * I was the lead developer on the video game mod [Cold War: Iron Curtain](https://steamcommunity.com/sharedfiles/filedetails/?id=1458561226). This is how I learned to program, growing it from a few thousand to over 500 000 total downloads.
